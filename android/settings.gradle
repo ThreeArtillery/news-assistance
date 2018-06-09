@@ -1,0 +1,3 @@
+rootProject.name = 'NewsAssistance'
+
+include ':app', ':lua5.3java'

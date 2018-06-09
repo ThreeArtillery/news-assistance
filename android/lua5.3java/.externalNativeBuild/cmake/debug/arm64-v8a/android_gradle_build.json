@@ -1,0 +1,272 @@
+
+{
+	"buildFiles" : [ "G:/1_github/NewsAssistance/android/lua5.3java/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\ProgramFiles\\AndroidSdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\1_github\\NewsAssistance\\android\\lua5.3java\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"lua-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lua",
+			"buildCommand" : "D:\\ProgramFiles\\AndroidSdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\1_github\\NewsAssistance\\android\\lua5.3java\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target lua",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lapi.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lauxlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lbaselib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lbitlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lcode.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lcorolib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lctype.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ldblib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ldebug.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ldo.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ldump.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lfunc.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lgc.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/linit.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/liolib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/llex.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lmathlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lmem.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/loadlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lobject.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lopcodes.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/loslib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lparser.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lstate.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lstring.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lstrlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ltable.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ltablib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/ltm.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lundump.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lutf8lib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lvm.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/lua/lzio.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/android/androidlib.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/android/input_event.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/android/shell_cmd.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot  -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/android/event_test.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/liblua.a",
+			"toolchain" : "3774238409"
+		},
+		"luajava-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "luajava",
+			"buildCommand" : "D:\\ProgramFiles\\AndroidSdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build G:\\1_github\\NewsAssistance\\android\\lua5.3java\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target luajava",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot -Dluajava_EXPORTS -I..\\..\\..\\..\\src\\main\\jni\\lua  -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "G:/1_github/NewsAssistance/android/lua5.3java/src/main/jni/luajava/luajava.c",
+					"workingDirectory" : "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "G:/1_github/NewsAssistance/android/lua5.3java/build/intermediates/cmake/debug/obj/arm64-v8a/libluajava.so",
+			"toolchain" : "3774238409"
+		}
+	},
+	"toolchains" : 
+	{
+		"3774238409" : 
+		{
+			"cCompilerExecutable" : "D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/ProgramFiles/AndroidSdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

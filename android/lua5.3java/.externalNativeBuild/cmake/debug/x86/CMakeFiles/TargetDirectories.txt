@@ -1,0 +1,4 @@
+G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/x86/CMakeFiles/luajava.dir
+G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lua.dir
+G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
