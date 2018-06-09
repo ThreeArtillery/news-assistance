@@ -31,6 +31,13 @@ export default class App extends Component<Props> {
             .startActivityFromJS("Hello,Tom!");
   }
 
+  onPressShowFloatBallButton = () => {
+    console.log("You tapped the button!");
+        NativeModules
+            .FloatBallModule
+            .showFlatBallFromJS("Hello,Tom!");
+  }
+
   render() {
     return (
       <View style={styles.container}>
@@ -45,6 +52,9 @@ export default class App extends Component<Props> {
         </Text>
         <TouchableNativeFeedback onPress={this.onPressButton}>  
           <Text>跳转到原生页面</Text>  
+        </TouchableNativeFeedback>
+        <TouchableNativeFeedback onPress={this.onPressShowFloatBallButton}>  
+          <Text>打开悬浮框</Text>  
         </TouchableNativeFeedback>  
       </View>
     );

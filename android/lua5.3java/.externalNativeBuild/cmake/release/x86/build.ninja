@@ -42,7 +42,7 @@ build CMakeFiles/luajava.dir/src/main/jni/luajava/luajava.c.o: C_COMPILER__luaja
   DEP_FILE = CMakeFiles\luajava.dir\src\main\jni\luajava\luajava.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\luajava\luajava.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\luajava\luajava.c
   OBJECT_DIR = CMakeFiles\luajava.dir
   OBJECT_FILE_DIR = CMakeFiles\luajava.dir\src\main\jni\luajava
 
@@ -71,259 +71,259 @@ build CMakeFiles/lua.dir/src/main/jni/lua/lapi.c.o: C_COMPILER__lua ../../../../
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lapi.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lapi.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lapi.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lauxlib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lauxlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lauxlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lauxlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lauxlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lbaselib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lbaselib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lbaselib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lbaselib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lbaselib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lbitlib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lbitlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lbitlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lbitlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lbitlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lcode.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lcode.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lcode.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lcode.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lcode.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lcorolib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lcorolib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lcorolib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lcorolib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lcorolib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lctype.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lctype.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lctype.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lctype.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lctype.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ldblib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ldblib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ldblib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ldblib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ldblib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ldebug.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ldebug.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ldebug.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ldebug.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ldebug.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ldo.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ldo.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ldo.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ldo.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ldo.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ldump.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ldump.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ldump.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ldump.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ldump.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lfunc.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lfunc.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lfunc.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lfunc.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lfunc.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lgc.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lgc.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lgc.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lgc.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lgc.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/linit.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/linit.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\linit.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\linit.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\linit.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/liolib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/liolib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\liolib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\liolib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\liolib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/llex.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/llex.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\llex.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\llex.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\llex.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lmathlib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lmathlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lmathlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lmathlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lmathlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lmem.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lmem.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lmem.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lmem.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lmem.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/loadlib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/loadlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\loadlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\loadlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\loadlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lobject.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lobject.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lobject.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lobject.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lobject.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lopcodes.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lopcodes.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lopcodes.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lopcodes.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lopcodes.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/loslib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/loslib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\loslib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\loslib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\loslib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lparser.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lparser.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lparser.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lparser.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lparser.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lstate.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lstate.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lstate.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lstate.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lstate.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lstring.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lstring.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lstring.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lstring.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lstring.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lstrlib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lstrlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lstrlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lstrlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lstrlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ltable.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ltable.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ltable.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ltable.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ltable.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ltablib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ltablib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ltablib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ltablib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ltablib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/ltm.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/ltm.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\ltm.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\ltm.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\ltm.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lundump.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lundump.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lundump.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lundump.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lundump.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lutf8lib.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lutf8lib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lutf8lib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lutf8lib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lutf8lib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lvm.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lvm.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lvm.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lvm.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lvm.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/lua/lzio.c.o: C_COMPILER__lua ../../../../src/main/jni/lua/lzio.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\lua\lzio.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\lua\lzio.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\lua\lzio.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\lua
 build CMakeFiles/lua.dir/src/main/jni/android/androidlib.c.o: C_COMPILER__lua ../../../../src/main/jni/android/androidlib.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\android\androidlib.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\android\androidlib.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\android\androidlib.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\android
 build CMakeFiles/lua.dir/src/main/jni/android/input_event.c.o: C_COMPILER__lua ../../../../src/main/jni/android/input_event.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\android\input_event.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\android\input_event.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\android\input_event.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\android
 build CMakeFiles/lua.dir/src/main/jni/android/shell_cmd.c.o: C_COMPILER__lua ../../../../src/main/jni/android/shell_cmd.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\android\shell_cmd.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\android\shell_cmd.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\android\shell_cmd.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\android
 build CMakeFiles/lua.dir/src/main/jni/android/event_test.c.o: C_COMPILER__lua ../../../../src/main/jni/android/event_test.c
   DEP_FILE = CMakeFiles\lua.dir\src\main\jni\android\event_test.c.o.d
   FLAGS = -isystem D:/ProgramFiles/AndroidSdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC
   INCLUDES = -I../../../../src/main/jni/lua
-  IN_ABS = G:\1_github\NewsAssistance\android\lua5.3java\src\main\jni\android\event_test.c
+  IN_ABS = G:\1_github\news-assistance\android\lua5.3java\src\main\jni\android\event_test.c
   OBJECT_DIR = CMakeFiles\lua.dir
   OBJECT_FILE_DIR = CMakeFiles\lua.dir\src\main\jni\android
 
@@ -346,7 +346,7 @@ build liblua.a: C_STATIC_LIBRARY_LINKER__lua CMakeFiles/lua.dir/src/main/jni/lua
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D G:\1_github\NewsAssistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86 && D:\ProgramFiles\AndroidSdk\cmake\3.6.4111459\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D G:\1_github\news-assistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86 && D:\ProgramFiles\AndroidSdk\cmake\3.6.4111459\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 build edit_cache: phony CMakeFiles/edit_cache.util
@@ -355,7 +355,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D G:\1_github\NewsAssistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86 && D:\ProgramFiles\AndroidSdk\cmake\3.6.4111459\bin\cmake.exe -HG:\1_github\NewsAssistance\android\lua5.3java -BG:\1_github\NewsAssistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86"
+  COMMAND = cmd.exe /C "cd /D G:\1_github\news-assistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86 && D:\ProgramFiles\AndroidSdk\cmake\3.6.4111459\bin\cmake.exe -HG:\1_github\news-assistance\android\lua5.3java -BG:\1_github\news-assistance\android\lua5.3java\.externalNativeBuild\cmake\release\x86"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1

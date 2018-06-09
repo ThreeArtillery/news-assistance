@@ -1,4 +1,4 @@
-# Install script for directory: G:/1_github/NewsAssistance/android/lua5.3java
+# Install script for directory: G:/1_github/news-assistance/android/lua5.3java
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/1_github/news-assistance/android/lua5.3java/.externalNativeBuild/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

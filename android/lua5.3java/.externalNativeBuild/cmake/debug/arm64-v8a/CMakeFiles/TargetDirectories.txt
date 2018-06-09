@@ -1,4 +1,4 @@
-G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/luajava.dir
-G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/lua.dir
-G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
-G:/1_github/NewsAssistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/1_github/news-assistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/luajava.dir
+G:/1_github/news-assistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/lua.dir
+G:/1_github/news-assistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/1_github/news-assistance/android/lua5.3java/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

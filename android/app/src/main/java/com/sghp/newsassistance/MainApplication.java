@@ -7,6 +7,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
+import com.sghp.newsassistance.rnmodules.floatball.FloatBallPackage;
 import com.sghp.newsassistance.rnmodules.script.ScriptPackage;
 
 import java.util.Arrays;
@@ -24,7 +25,8 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-          new ScriptPackage()
+          new ScriptPackage(),
+          new FloatBallPackage()
       );
     }
 
