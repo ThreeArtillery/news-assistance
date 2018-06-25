@@ -25,10 +25,15 @@ type Props = {};
 export default class App extends Component<Props> {
 
   onPressButton = () => {
-    console.log("You tapped the button!");
-        NativeModules
-            .ScriptModule
-            .startActivityFromJS("Hello,Tom!");
+    console.log("You tapped the button! startActivityFromJS");
+    try {
+      NativeModules
+      .ScriptModule
+      .startActivityFromJS("Hello,Tom!");
+    } catch(error) {
+      console.log('---------APP-----------')
+      console.log(error);      
+    }
   }
 
   onPressShowFloatBallButton = () => {

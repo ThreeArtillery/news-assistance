@@ -24,9 +24,14 @@ public class ScriptModule extends ReactContextBaseJavaModule{
     @ReactMethod
     public void startActivityFromJS(String params) {
         Log.d("DEBUG TOM-params:", params + ":params");
-        Activity currentActivity = getCurrentActivity();
-        Intent intent = new Intent(currentActivity, AndroidLuaActivity.class);
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        currentActivity.startActivity(intent);
-    } 
+        try {
+            Activity currentActivity = getCurrentActivity();
+            Intent intent = new Intent(currentActivity, AndroidLuaActivity.class);
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            currentActivity.startActivity(intent);
+        } catch (Exception error) {
+            Log.d("DEBUG TOM-params:", "ERROR");
+            error.printStackTrace();
+        }
+    }
 }  

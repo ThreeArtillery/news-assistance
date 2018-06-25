@@ -57,6 +57,7 @@ public class AndroidLuaActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
+        Log.d("DEBUG TOM-AndroidLua:", this.getLocalClassName());
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
